@@ -1,6 +1,5 @@
-- 👋 Heylow, I’m @Lorrieto 
-- 👀 I’m interested (not limited to) in game development, VR and AI in and outside game development.
-- Ive also developed an interest in blockchain and I am currently learning more about it.
+- I’m @Lorry (the name changes cause I receive a lot of nicknames every year so thats not up to me)
+- Game development, VR and AI in and outside game development.
 - Reach me via my email @lorrahngobeni.ln@gmail.com
 
 <!---
