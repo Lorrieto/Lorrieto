@@ -1,6 +1,7 @@
-- Hey, I’m Lorry (the name changes cause I receive a new nickname every year so thats not up to me (=_=).
-- Im into Game development, VR and AI in and outside game development.
-- Reach me via my email @lorrahngobeni.ln@gmail.com
+Hey, I’m Lorry. 
+I'm into game development, VR and AI in and outside game development.
+Fun fact: I receive a lot of nicknames (incl Lorry and Lorrieto) Lorry is the latest, so it might be updated later on and that's not up to me ofcourse (=_=).
+Reach me via my email @lorrahngobeni.ln@gmail.com
 
 <!---
 Lorrieto/Lorrieto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
