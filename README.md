@@ -1,4 +1,4 @@
-- I’m @Lorry (the name changes cause I receive a new nickname every year so thats not up to me)
+- Hey, I’m Lorry (the name changes cause I receive a new nickname every year so thats not up to me (=_=).
 - Im into Game development, VR and AI in and outside game development.
 - Reach me via my email @lorrahngobeni.ln@gmail.com
 
