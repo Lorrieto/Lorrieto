@@ -1,7 +1,21 @@
-- Hey, I’m Lorry. 
-- I'm into game development, VR and AI in and outside game development.
-- ⚡Fun fact: I receive a lot of nicknames (incl Lorry and Lorrieto) Lorry is the latest, so it might be updated later on and that's not up to me ofcourse (=_=).
-- 📫 Reach me via my email @lorrahngobeni.ln@gmail.com
+-Hello, I'm Lorrah Ngobeni! 👋
+
+Welcome to my GitHub profile! I'm thrilled to have you here. 😄
+
+🌟 About Me
+- 🔭 I’m currently working on exciting gaming and XR projects.
+- 🌱I'm learning Backend Development at ALX_Africa and I am constantly improving my programming skills and soft skills.
+- 🎯 My goal is to contribute to impactful projects and collaborate with amazing developers.
+- 💬 Ask me about anything VR, MR and Game Development!
+
+🛠️ Tech Stack
+- Languages: C#, Python
+- Tools & Platforms: Unity, Git, Fork
+
+## 🌍 Let's Connect
+- GitHub: [Lorrieto](https://github.com/Lorrieto)
+- LinkedIn: [Lorrah Ngobeni]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/lorrah-ngobeni-70523a152?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmhCCp5DjSTaeAigbce84cg%3D%3D))
+- Twitter: [@LorrahNgobeni]([https://twitter.com/your-twitter-handle](https://x.com/LorrahNgobeni))
 
 <!---
 Lorrieto/Lorrieto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
